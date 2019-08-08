@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Commenti per Filecr	</title>
+	<atom:link href="/https://serialc0de.github.io/filecr/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://serialc0de.github.io/filecr</link>
+	<description>Un nuovo sito targato WordPress</description>
+	<lastBuildDate>Thu, 08 Aug 2019 12:50:47 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+			<item>
+				<title>
+				Commenti su Ciao mondo! di Un commentatore di WordPress				</title>
+				<link>/https://serialc0de.github.io/filecr/2019/08/08/ciao-mondo/#comment-1</link>
+		<dc:creator><![CDATA[Un commentatore di WordPress]]></dc:creator>
+		<pubDate>Thu, 08 Aug 2019 12:50:47 +0000</pubDate>
+		<guid isPermaLink="false">/https://serialc0de.github.io/filecr/?p=1#comment-1</guid>
+					<description><![CDATA[Ciao, questo è un commento.
+Per iniziare a moderare, modificare ed eliminare commenti, visita la schermata commenti nella bacheca.
+Gli avatar di chi lascia un commento sono forniti da &lt;a href=&quot;https://it.gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+		<content:encoded><![CDATA[<p>Ciao, questo è un commento.<br />
+Per iniziare a moderare, modificare ed eliminare commenti, visita la schermata commenti nella bacheca.<br />
+Gli avatar di chi lascia un commento sono forniti da <a href="https://it.gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>
